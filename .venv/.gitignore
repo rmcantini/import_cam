@@ -1,7 +1,1 @@
-*# UV-specific ignores
-.venv/
-.uvcache/
-
-# Standard Python ignores
-__pycache__/
-*.pyc
+*
