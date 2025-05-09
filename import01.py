@@ -1,5 +1,5 @@
 def main():
-    print("Hello from import-cam!")
+    print("Hello from import-cam! You bitches!")
 
 
 if __name__ == "__main__":
